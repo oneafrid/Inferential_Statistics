@@ -1,4 +1,5 @@
 # Inferential_Statistics_Frequentists
+# Understanding of fundamental concepts associated with frequentist inference
 the _z_-statistic
 the _t_-statistic
 the difference and relationship between the two
